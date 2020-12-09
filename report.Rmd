@@ -1,0 +1,12 @@
+---
+title: "STA304_Final_Project"
+author: "Hairong Sun     1004116618"
+date: "09/12/2020"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
