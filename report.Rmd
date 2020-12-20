@@ -1,12 +1,84 @@
 ---
-title: "STA304_Final_Project"
+title: "Apply Logistic Model to Analyze the Odds of Default"
 author: "Hairong Sun     1004116618"
 date: "09/12/2020"
 output: pdf_document
+abstract: |
+  | This report <My abstract here.>
+  |
+  | **key words:** <My keywords here.>
+header-includes:
+   - \usepackage{xcolor}
+
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
+#### Code and data supporting this analysis is available at:  \href{https://github.com/HairongSun/STA304_Qset_final.git}{here} (click "here")
+
+
+
+
+## Introduction
+
+
+##### Default is the risk that the financial system trying to avoid and minimize. The goal of the analysis is to find the probability of default, and testing how strong these variables are related to the testing goal. This analysis could provide financial sectors to strengthen the default assumption. In this case, the financial sector would lend or not lend to an applicant according to this indicator. Before building a model, this analysis is mainly using the dataset from a marketing campaign by a Portuguese banking institution from May 2008 to November 2010. The researching goal is finding the individual's probability of default, by using attributes such as age, job, marital, bank account balance, housing, and loan. Before doing the analysis, assuming that the more stable marital, job, and housing situation is, the less likely a person would default. This analysis is going to use logistic regression to predict the odds of default, and how strong each variable related to the interest of this report. The results are presented in the mathematical expression and graphs. In the discussion part, the next step and limitations are discussed.
+
+
+
+
+## Data
+
+
+
+<.>
+
+
+## Model
+
+
+<.>
+
+
+
+
+## Results
+
+
+<.>
+
+
+
+## Discussion (Weaknesses & Next steps)
+
+### Weaknesses
+
+
+
+
+<.>
+
+### Next steps
+
+
+
+
+<.>
+
+
+
+## References
+
+
+
+<.>
+S. Moro, P. Cortez and P. Rita. A Data-Driven Approach to Predict the Success of Bank Telemarketing. Decision Support Systems, Elsevier, 62:22-31, June 2014
+
+
+
+
+
 
 
