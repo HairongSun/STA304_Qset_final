@@ -20,7 +20,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 
-
 ## Introduction
 
 
@@ -31,23 +30,28 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Data
 
+```{r}
+
+```
 
 
-<.>
 
 
 ## Model
 
+```{r}
 
-<.>
+```
+
 
 
 
 
 ## Results
 
+```{r}
 
-<.>
+```
 
 
 
